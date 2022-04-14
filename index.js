@@ -57,7 +57,7 @@ img1 = fs.readFileSync('./gambar/thumb.jpg')
 img2 = fs.readFileSync('./gambar/fake.jpg')
 fakeyoi = ["Created By RyuuOfficial"]
 api = ["https://myselfff.herokuapp.com/docs"]
-simbol = ["-"]
+simbol = ["タ"]
 const botName = setting.NamaBot
 
 //MODE
